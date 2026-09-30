@@ -56,7 +56,7 @@ skip_param = 3
 
 batch_size = 16 
 
-num_epochs = 3
+num_epochs = 500
 max_frames = 300
 
 files_per_epoch = 76
